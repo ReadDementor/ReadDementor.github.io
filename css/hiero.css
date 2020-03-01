@@ -16,9 +16,10 @@ Tags: black, white, red, two-columns, fixed-layout, threaded-comments, full-widt
 body {
 	color: #333;
 	font-weight: 400;
-	font-family: Arial, Helvetica, Microsoft Yahei;
+	font-family: "Yanone Kaffeesatz", "Microsoft YaHei Light", Arial, Helvetica, sans-serif ;
 	line-height: 1.8;
 	background: #fff;
+	font-size: 15px;
 	}
 
 /* Headings */
@@ -274,7 +275,7 @@ object {
 	color: #999;
 	font-family: "Yanone Kaffeesatz", "Microsoft YaHei Light", Arial, Helvetica, sans-serif;
 	text-transform: uppercase;
-	letter-spacing: 1px;
+	letter-spacing: 3px;
 	}
 
 /* MENU
