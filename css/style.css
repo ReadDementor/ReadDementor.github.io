@@ -457,7 +457,7 @@ body {
 }
 .article-header h1 {
   margin: 0 0 3px 0;
-  font-size: 26px;
+  font-size: 20px;
   line-height: 1.2;
 }
 .article-header h1 a {
@@ -645,8 +645,8 @@ a.article-title:hover {
   text-align: center;
 }
 .article-more-link a {
-  color: #8B4513;
-  display: flex;
+  color: #ff2828;
+  display: inline-block;
   font-size: 0.9em;
   line-height: 1em;
   text-decoration: none;
